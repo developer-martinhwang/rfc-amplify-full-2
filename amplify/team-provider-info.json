@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rfcamplifyfull2-dev-100347-authRole",
+      "UnauthRoleArn": "arn:aws:iam::679366254716:role/amplify-rfcamplifyfull2-dev-100347-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::679366254716:role/amplify-rfcamplifyfull2-dev-100347-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-rfcamplifyfull2-dev-100347-deployment",
+      "UnauthRoleName": "amplify-rfcamplifyfull2-dev-100347-unauthRole",
+      "StackName": "amplify-rfcamplifyfull2-dev-100347",
+      "StackId": "arn:aws:cloudformation:us-east-2:679366254716:stack/amplify-rfcamplifyfull2-dev-100347/7ffea3c0-5283-11eb-b6e6-0abd43d40ad8",
+      "AmplifyAppId": "dm3bc4x7kdyvb"
+    }
+  }
+}
